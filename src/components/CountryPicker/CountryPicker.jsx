@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './CountryPicker.modules.css';
+import styles from './CountryPicker.module.css';
 
 const CountryPicker = () => {
     return(
